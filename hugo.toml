@@ -1,0 +1,4 @@
+baseURL = 'https://tw.yvesfhsu.com/'
+languageCode = 'zh-tw'
+title = '台大電機生之獨白'
+theme = 'ananke'
